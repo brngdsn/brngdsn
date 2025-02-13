@@ -12,8 +12,8 @@ Projects focused AI frameworks, libraries, and tools that enhance AI capabilitie
 
 | Project | GitHub |
 | --- | --- |
-| 📐 **STABLE Framework** - By guiding you through the proven STABLE Framework, this interactive tool ensures every project starts on a solid foundation. | [Link](https://github.com/brngdsn/stable) |
 | 🐝 **SwarmJS** - Experimental framework for orchestrating AI Agents that can transfer control to each other and call functions in a chat-based workflow. | [Link](https://github.com/brngdsn/swarm-js) |
+| 📐 **STABLE Framework** - By guiding you through the proven STABLE Framework, this interactive tool ensures every AI generated project starts on a solid foundation. | [Link](https://github.com/brngdsn/stable) |
 
 # AI Deep Research
 
@@ -21,7 +21,7 @@ Projects focused on deep research with AI.
 
 | Project | GitHub |
 | --- | --- |
-| 📖 **Cinepress** - Model agnostic intelligent assistant for up-to-date deep research. | [Link](https://github.com/brngdsn/cinepress) |
+| 📝 **Cinepress** - Model agnostic intelligent assistant for up-to-date deep research. | [Link](https://github.com/brngdsn/cinepress) |
 
 # AI Agents
 
@@ -31,8 +31,27 @@ Projects focused on AI Agents.
 | --- | --- |
 | 🤖 **VOX** - VOX is a powerful AI Agent that allows you to execute commands using your voice. | [Link](https://github.com/brngdsn/vox) |
 
-<!-- 
 # AI Automations
+
+Projects focused on AI Automations and generative AI.
+
+| Project | GitHub |
+| --- | --- |
+| 🎬 **Cinecraft** - AI automated Screenwriting and Storyboarding generation. (private) | [Link](https://github.com/brngdsn/oracle-arcana) |
+| 🎥 **Bullllama** - Multi-modal AI generated viral video generator that posts to socials for you. (private) | [Link](https://github.com/brngdsn/bullllama) |
+| 🔮 **Oracle Arcana** - Multi-modal AI generated content streamed live to YouTube. (private) | [Link](https://github.com/brngdsn/oracle-arcana) |
+
+# Helper Tools
+
+Tools with a more human touch.
+
+| Project | GitHub |
+| --- | --- |
+| 🛠️ **unmd** - A CLI tool to unpack code fences from Markdown into files. Designed for ChatGPT. | [Link](https://github.com/brngdsn/unmd) |
+| 🛠️ **remd** - A CLI tool to recursively compile files into a single markdown file. Designed for ChatGPT. | [Link](https://github.com/brngdsn/remd) |
+
+<!-- 
+
 # AI Assistants
 -->
 
