@@ -41,7 +41,7 @@ Projects focused on AI Automations and generative AI.
 | 🎥 **Bullllama** - Multi-modal AI generated viral video generator that posts to socials for you. (private) | [Link](https://github.com/brngdsn/bullllama) |
 | 🔮 **Oracle Arcana** - Multi-modal AI generated content streamed live to YouTube. (private) | [Link](https://github.com/brngdsn/oracle-arcana) |
 
-# Helper Tools
+# Developer Tools
 
 Tools with a more human touch.
 
@@ -49,6 +49,7 @@ Tools with a more human touch.
 | --- | --- |
 | 🛠️ **unmd** - A CLI tool to unpack code fences from Markdown into files. Designed for ChatGPT. | [Link](https://github.com/brngdsn/unmd) |
 | 🛠️ **remd** - A CLI tool to recursively compile files into a single markdown file. Designed for ChatGPT. | [Link](https://github.com/brngdsn/remd) |
+| 🛠️ **ss3** - A simple AWS S3 mock for uploading and downloading files. | [Link](https://github.com/brngdsn/remd) |
 
 <!-- 
 
