@@ -12,8 +12,8 @@ Projects focused AI frameworks, libraries, and tools that enhance AI capabilitie
 
 | Project | GitHub |
 | --- | --- |
-| 📐 **STABLE Framework** -  | [Link](https://github.com/brngdsn/stable) |
-| 🐝 **SwarmJS** -  | [Link](https://github.com/brngdsn/swarm-js) |
+| 📐 **STABLE Framework** - By guiding you through the proven STABLE Framework, this interactive tool ensures every project starts on a solid foundation. | [Link](https://github.com/brngdsn/stable) |
+| 🐝 **SwarmJS** - Experimental framework for orchestrating AI Agents that can transfer control to each other and call functions in a chat-based workflow. | [Link](https://github.com/brngdsn/swarm-js) |
 
 # AI Deep Research
 
@@ -21,7 +21,7 @@ Projects focused on deep research with AI.
 
 | Project | GitHub |
 | --- | --- |
-| 📖 **Cinepress** -  | [Link](https://github.com/brngdsn/cinepress) |
+| 📖 **Cinepress** - Model agnostic intelligent assistant for up-to-date deep research. | [Link](https://github.com/brngdsn/cinepress) |
 
 # AI Agents
 
@@ -29,7 +29,7 @@ Projects focused on AI Agents.
 
 | Project | GitHub |
 | --- | --- |
-| 🤖 **VOX** -  | [Link](https://github.com/brngdsn/vox) |
+| 🤖 **VOX** - VOX is a powerful AI Agent that allows you to execute commands using your voice. | [Link](https://github.com/brngdsn/vox) |
 
 <!-- 
 # AI Automations
