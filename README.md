@@ -47,7 +47,8 @@ Tools with a more human touch.
 
 | Project | GitHub |
 | --- | --- |
-| 🛠️ **docly** - A CLI tool that transforms Markdown into PDFs, and merges PDFs. | [Link](https://github.com/brngdsn/unmd) |
+| 🛠️ **tacos** - A CLI tool for Token And Context Output Summarization for LLMs. | [Link](https://github.com/brngdsn/tacos) |
+| 🛠️ **docly** - A CLI tool that transforms Markdown into PDFs, and merges PDFs. | [Link](https://github.com/brngdsn/docly) |
 | 🛠️ **unmd** - A CLI tool to unpack code fences from Markdown into files. Designed for ChatGPT. | [Link](https://github.com/brngdsn/unmd) |
 | 🛠️ **remd** - A CLI tool to recursively compile files into a single markdown file. Designed for ChatGPT. | [Link](https://github.com/brngdsn/remd) |
 | 🛠️ **ss3** - A simple AWS S3 mock for uploading and downloading files. | [Link](https://github.com/brngdsn/remd) |
