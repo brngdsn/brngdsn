@@ -8,7 +8,7 @@ On my GitHub, you'll find projects that range from innovative, self-learning age
 
 # AI SaaS Products
 
-Both open-sourced and clsosed-sourced SaaS powered by AI.
+Both open-sourced and closed-sourced SaaS products powered by AI.
 
 | Product | GitHub |
 | --- | --- |
