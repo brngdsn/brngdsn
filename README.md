@@ -20,6 +20,7 @@ Projects focused on AI frameworks, libraries, and tools.
 
 | Project | GitHub |
 | --- | --- |
+| 🦙 **GitLlama** - A CLI tool that uses AI to generate git commit messages based on your changes. | [Link](https://github.com/brngdsn/gitllama) |
 | 🐝 **SwarmJS** - Experimental framework for orchestrating AI Agents that can transfer control to each other and call functions in a chat-based workflow. | [Link](https://github.com/brngdsn/swarm-js) |
 | 📐 **STABLE Framework** - By guiding you through the proven STABLE Framework, this interactive tool ensures every AI generated project starts on a solid foundation. | [Link](https://github.com/brngdsn/stable) |
 
